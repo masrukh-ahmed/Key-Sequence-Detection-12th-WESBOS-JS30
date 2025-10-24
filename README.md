@@ -10,6 +10,7 @@ This project helped me understand how to:
 - Capture and handle **keyboard events** in real-time.
 - Maintain a **rolling array of pressed keys**.
 - Compare sequences using **string operations**.
+  ![Working Demo GIF format](working_demo.gif)
 
 ---
 
